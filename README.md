@@ -221,6 +221,6 @@ This is the kind of insight that previously required navigating multiple UI page
 
 ## Author
 
-**Shiva Kumar** — [@shivakumar2006](https://github.com/shivakumar2006)
+**Shiva** — [@shivakumar2006](https://github.com/shivakumar2006)
 
 BCA Final Year · Hackathon builder · Open source contributor
