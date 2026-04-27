@@ -166,7 +166,7 @@ sudo apt install golang-go  # Ubuntu
 ### Step 2 — Install
 
 ```bash
-git clone https://github.com/shivakumar2006/omctl
+git clone https://github.com/shivakumar2006/OpenMetaDataCommandLineTool
 cd omctl
 go install .
 ```
